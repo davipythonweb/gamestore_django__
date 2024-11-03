@@ -15,7 +15,7 @@ Uma loga de Consoles feita com o framework Django
 ˋcomandos djangoˋ
 
 - criado projeto
-  python django-admin startproject core .
+  django-admin startproject core .
 - rodar projeto
   python manage.py runserver
 - criando app
